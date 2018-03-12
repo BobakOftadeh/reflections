@@ -1,0 +1,3 @@
+The diff command helpedin in finding
+out what was the issue of the thing we were trying
+to decode and uncover.
